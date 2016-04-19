@@ -1,2 +1,3 @@
 # sta6632016-project-
-project team: shuaiqi zhang, tongrong wang
+project team member: shuaiqi zhang, tongrong wang
+The paper we read is Scalable K-Means++ 
